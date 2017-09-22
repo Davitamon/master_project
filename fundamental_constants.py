@@ -1,0 +1,26 @@
+electron_scattering_opacity = 0.4  # cgs
+c = 2.99792458e10  # cm s^-1
+h = 6.6260755e-27  # erg s
+hbar = 1.05457266e-27  # erg s
+G = 6.67259e-8  # cm^3 g^-1 s^-2
+e = 4.8032068e-10  # esu
+m_e = 9.1093897e-28  # g
+m_p = 1.6726231e-24  # g
+m_n = 1.6749286  # g
+m_H = 1.6733e-24  # g
+amu = 1.6605402e-24  # g
+N_A = 6.0221367e23  #
+k = 1.380658e-16 # erg K^-1
+eV = 1.6021772e-12 # erg
+rydberg = 2.1798741e-11 # erg
+fine_structure = 7.29735308e-3 #
+sb = 5.67051e-5 # ?
+thomson = 6.6524e-25 # cm^2
+
+AU = 5.67051e13 # cm
+pc = 3.086e18 # cm
+ly = 9.463e17 # cm
+M_solar = 1.99e33 # g
+R_solar = 6.96e10 # cm
+L_solar = 3.9e33 # erg s^-1
+T_solar = 5.780e3 # K
