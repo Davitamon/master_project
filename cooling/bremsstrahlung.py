@@ -28,7 +28,7 @@ def lepton_lepton_opposite_charge(T, n_el, n_pos):
 
 
 def cooling(T, n_prot, n_lep, n_el, n_pos):
-    return lepton_ion(T, n_prot, n_lep) + lepton_lepton_same_charge(T, n_el, n_pos) * lepton_lepton_opposite_charge(T, n_el, n_pos)
+    return lepton_ion(T, n_prot, n_lep) + lepton_lepton_same_charge(T, n_el, n_pos) + lepton_lepton_opposite_charge(T, n_el, n_pos)
 
 if __name__ == '__main__':
     pass
